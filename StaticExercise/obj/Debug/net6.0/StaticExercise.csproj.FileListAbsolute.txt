@@ -1,0 +1,14 @@
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.exe
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.deps.json
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.runtimeconfig.json
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.dll
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\bin\Debug\net6.0\StaticExercise.pdb
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfoInputs.cache
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.AssemblyInfo.cs
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.csproj.CoreCompileInputs.cache
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.dll
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\refint\StaticExercise.dll
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.pdb
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\StaticExercise.genruntimeconfig.cache
+C:\Users\jdupo\Desktop\Repos\Static-Exercise\StaticExercise\obj\Debug\net6.0\ref\StaticExercise.dll
